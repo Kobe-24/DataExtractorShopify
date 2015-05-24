@@ -1,0 +1,12 @@
+package ShopifyAPI;
+
+public class Order {
+	private int id;
+	
+	private String info;
+	
+	public void setId(int id)
+	{
+		this.id = id;
+	}
+}

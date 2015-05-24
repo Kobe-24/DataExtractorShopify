@@ -1,0 +1,22 @@
+package test;
+
+import static org.junit.Assert.*;
+
+
+import org.junit.Test;
+
+import JsonParser.JsonParser;
+
+public class JsonParserTest {
+
+	@Test
+	public void test() {
+		JsonParser myJsonParser = new JsonParser();
+		
+		String myTestString = "test";
+		List<String> json = myJsonParser.getJson(myTestString);
+		
+		
+	}
+
+}

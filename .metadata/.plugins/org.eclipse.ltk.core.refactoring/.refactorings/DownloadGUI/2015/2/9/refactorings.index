@@ -1,0 +1,10 @@
+1424752598380	Delete element
+1424752685875	Delete element
+1424797002635	Rename type 'ShipwireAPI'
+1424797074411	Rename type 'Credential'
+1424800015993	Rename local variable 'encoding'
+1424800717646	Rename local variable 'products'
+1424972692608	Rename method 'GetProducts'
+1424974368358	Rename method 'getProducts'
+1425085006200	Rename local variable 'datePicker'
+1425085014897	Rename local variable 'datePanel'
